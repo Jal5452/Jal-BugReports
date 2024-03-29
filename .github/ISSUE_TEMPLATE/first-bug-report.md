@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: First Bug report
 about: Bug report of the fido website
 title: Bug  Report of Fido website
 labels: bug
