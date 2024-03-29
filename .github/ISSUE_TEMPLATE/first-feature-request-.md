@@ -1,6 +1,6 @@
 ---
-name: Feature request 2
-about: Suggest an idea for this project
+name: 'First Feature request '
+about: Suggest for the valorant game
 title: ''
 labels: ''
 assignees: ''

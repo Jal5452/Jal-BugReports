@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Second Feature request
 about: Request for the splitwise app
 title: ''
 labels: ''
