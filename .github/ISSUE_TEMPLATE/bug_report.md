@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Bug report of the fido website 
-title: 'Bug  Report of Fido website'
+about: Bug report of the fido website
+title: Bug  Report of Fido website
 labels: bug
 assignees: Jal5452
 
@@ -26,4 +26,3 @@ I expected that when someone will try to access the URL of that page then they w
 **Laptop:**
  - OS: Windows 
  - Browser edge and chrome
-
